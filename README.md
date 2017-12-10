@@ -39,7 +39,7 @@ Installation
 It is assumed that you have a working installation of [Git](https://git-scm.com/) and know how to use it to clone and update repositories.
 
 ### Simple way
-Run `git clone https://github.com/DisposaBoy/GoSublime ~/.config/sublime-text-3/Packages`
+Run `git clone https://github.com/DisposaBoy/GoSublime /tmp && mv /tmp/GoSublime ~/.config/sublime-text-3/Package`
 
 ### Customize installation
 Run the command `git clone https://github.com/DisposaBoy/GoSublime` from within the Sublime Text `Packages` directory.
